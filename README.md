@@ -2,6 +2,7 @@
 
 ## 🎯 Objetivo
 O presente projeto tem como propósito auxiliar o Sr. João, proprietário da rede de lojas vinculadas ao e-commerce Alura Store, na tomada de decisão sobre a venda de uma de suas unidades. A necessidade de alienação de uma loja surge como estratégia para direcionar investimentos em um novo negócio, exigindo uma análise criteriosa para identificar qual estabelecimento apresenta o menor desempenho e, portanto, é o candidato ideal para ser vendido.
+
 Para atingir esse objetivo, serão aplicadas técnicas de análise de dados, explorando indicadores de desempenho das quatro lojas e outros fatores relevantes, permitindo compreender o impacto no comportamento dos consumidores e nas operações do e-commerce.
 Este projeto insere-se no contexto do Desafio ONE Data Science, um desafio prático que busca proporcionar experiência real na aplicação de ciência de dados para decisões estratégicas no comércio digital. Com a análise aprofundada dos dados, espera-se fornecer ao Sr. João insights valiosos para uma escolha fundamentada e assertiva, garantindo a otimização dos investimentos e a sustentabilidade dos negócios.
 
