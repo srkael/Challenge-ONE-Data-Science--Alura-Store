@@ -84,6 +84,12 @@ Portanto, recomenda-se que o Sr. João venda a Loja 4, pois ela apresenta o dese
 
 
 
+## ▶️ Como Executar o Notebook
+
+Preferencialmente, você pode abrir o notebook diretamente no [Google Colab](https://colab.research.google.com) arrastando o arquivo analise_faturamento_lojas.ipynb ou importando do GitHub.
+
+
+
 ## 🤝 Como Contribuir
 
 Sinta-se à vontade para contribuir com o projeto, encontrou um bug ou tem uma sugestão? Abra uma [issue](https://github.com/srkael/Challenge-ONE-Data-Science--Alura-Store/issues) ou envie um pull request.
