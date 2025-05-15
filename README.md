@@ -7,11 +7,12 @@ Para atingir esse objetivo, serão aplicadas técnicas de análise de dados, exp
 Este projeto insere-se no contexto do Desafio ONE Data Science, um desafio prático que busca proporcionar experiência real na aplicação de ciência de dados para decisões estratégicas no comércio digital. Com a análise aprofundada dos dados, espera-se fornecer ao Sr. João insights valiosos para uma escolha fundamentada e assertiva, garantindo a otimização dos investimentos e a sustentabilidade dos negócios.
 
 ## 📁 Estrutura do Projeto
-
+```
 📦 Desafio-ONE-Data-Science--Alura-Store
 ┣ 📜 analise_faturamento_lojas.ipynb
 ┣ 📁 assets              # Diretório de imagens
 ┗ 📄 README.md
+```
 
 ## 🛠️ Tecnologias e Bibliotecas Utilizadas
 
